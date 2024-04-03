@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Code to Image",
+  title: "PixCode-Code to Image",
   description: "Convert your code to an image",
 };
 
